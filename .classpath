@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/jasperreports-6.20.6.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/apache-log4j-2.22.0-bin/log4j-1.2-api-2.22.0.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/apache-log4j-2.22.0-bin/log4j-jakarta-web-2.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/opencv/build/java/opencv-470.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/opencv/build/java/x86"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Téléchargements/webcam-capture-0.3.13-20200330.202351-7 (2).jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/slf4j-api-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/Téléchargements/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
